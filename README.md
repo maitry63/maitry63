@@ -4,7 +4,7 @@
 
 AI Engineer with **4+ years of experience** working across **Generative AI, Large Language Models, Computer Vision, Deep Learning, Machine Learning, and NLP**.
 
-Currently contributing to the **Keras ecosystem**, with a focus on **KerasHub model integration, checkpoint conversion, numerical verification, tokenization, preprocessing pipelines, PyGrain migration, and multi-backend compatibility**.
+Currently contributing to the **Keras ecosystem**
 
 I enjoy building **production-ready AI systems** and contributing to open-source ML infrastructure.
 
