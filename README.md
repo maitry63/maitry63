@@ -27,8 +27,6 @@ I enjoy building **production-ready AI systems** and contributing to open-source
 
 I actively contribute to the **Keras ecosystem**, working on AI/ML infrastructure, model integrations, checkpoint conversion, preprocessing, tokenization, numerical parity and multi-backend support.
 
-My GitHub profile automatically tracks my **commits, pull requests, reviews and other contribution activity**.
-
 > Building reliable ML infrastructure and bringing modern AI models into production-ready Keras workflows.
 
 ---
