@@ -100,7 +100,7 @@ Custom fashion recommendation system using an open-source **Meta Llama 3** model
 
 Uses **FAISS as the vector retriever** to retrieve relevant fashion information and generate personalized recommendations.
 
-🎥 **[View Demo](YOUR_FASHION_DEMO_LINK)**
+🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_created-custom-fashion-recommended-system-activity-7211628370114035713-7UWH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)**
 
 ---
 
@@ -112,7 +112,7 @@ Computer-vision system for determining the distance between nearby vehicles and 
 
 Calculates **3D (x, y, z) Euclidean distance** between vehicles and tracks vehicle pairs within a defined **15-foot threshold**, enabling potential CCTV-based accident detection.
 
-🎥 **[View Demo](YOUR_VEHICLE_DISTANCE_DEMO_LINK)**
+🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_artificialintelligenceai-deeplearning-objectdetection-activity-6806248971938398208-Wddk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)**
 
 ---
 
@@ -127,7 +127,7 @@ Final-round project for the **NVIDIA AI Hackathon 2021**, featuring multiple com
 
 🏆 **Final-round project with a high ranking**
 
-🎥 **[View Demo](YOUR_NVIDIA_HACKATHON_DEMO_LINK)**
+🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_computervision-datascience-hackathon-activity-6958085263717797888-1YMI?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)**
 
 ---
 
@@ -137,7 +137,7 @@ Custom-trained face detection model using **YOLOv7-Tiny**, designed for accurate
 
 **Tech:** `YOLOv7-Tiny` `Custom Training` `Computer Vision`
 
-🎥 **[View Demo](YOUR_FACE_DETECTION_DEMO_LINK)**
+🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_computervision-yolo-deeplearning-activity-6964642828106809344-7p-G?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)**
 
 ---
 
@@ -148,13 +148,13 @@ Explored **semantic and instance segmentation using U-Net** across medical, sate
 Applications include:
 
 * Medical image segmentation
-* Object counting and area calculation
-* Satellite image segmentation
-* Background removal
-* Image replacement
-* Smooth image blending
+ 🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_hello-connections-can-we-do-instance-segmentation-activity-6948634772495572993-gRlo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)**
 
-🎥 **[View Demo](YOUR_UNET_DEMO_LINK)**
+* Background removal & Image replacement
+  🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_segmentation-unet-deeplearning-activity-6940630166528233472-Q00s?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)**
+  
+* Satellite image segmentation with Smooth image blending
+ 🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_github-flask-opencv-activity-6947447356229304320-7pZK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)
 
 ---
 
