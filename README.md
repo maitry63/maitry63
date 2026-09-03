@@ -2,7 +2,7 @@
 
 ### AI Engineer | Generative AI | LLMs | Computer Vision
 
-AI Engineer with **4+ years of experience** working across **Generative AI, Large Language Models, Computer Vision, Deep Learning, Machine Learning, and NLP**.
+AI Engineer working across **Generative AI, Large Language Models, Computer Vision, Deep Learning, Machine Learning, and NLP**.
 
 Currently contributing to the **Keras ecosystem**
 
