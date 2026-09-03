@@ -91,6 +91,13 @@ Multi-Agent system for supply-chain operations using:
 The system uses an orchestrator agent to delegate tasks across **Inventory, Logistics and Finance agents**, with MCP-based database access and approval-gated workflows for sensitive financial operations.
 
 ---
+### 🤖 IFAS(Intelligent Face Attendance System)
+
+Ai based Face-recognition Attendance System.
+
+🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_ai-programming-python-activity-6810275271241957376-fNTq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)**
+
+---
 
 ### 🛍️ Fashion Recommendation System — LLM + RAG
 
