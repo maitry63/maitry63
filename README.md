@@ -148,13 +148,16 @@ Explored **semantic and instance segmentation using U-Net** across medical, sate
 Applications include:
 
 * Medical image segmentation
- 🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_hello-connections-can-we-do-instance-segmentation-activity-6948634772495572993-gRlo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)**
+
+🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_hello-connections-can-we-do-instance-segmentation-activity-6948634772495572993-gRlo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)**
 
 * Background removal & Image replacement
-  🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_segmentation-unet-deeplearning-activity-6940630166528233472-Q00s?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)**
+
+🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_segmentation-unet-deeplearning-activity-6940630166528233472-Q00s?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)**
   
 * Satellite image segmentation with Smooth image blending
- 🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_github-flask-opencv-activity-6947447356229304320-7pZK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)
+
+🎥 **[View Demo](https://www.linkedin.com/posts/maitry-sinha-2387551b8_github-flask-opencv-activity-6947447356229304320-7pZK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKoDAwBHcbmWLfm8_6ghLYdT8LGDA4J-AI)
 
 ---
 
